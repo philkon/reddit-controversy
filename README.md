@@ -10,7 +10,7 @@ You need to download submission and comment files from January 2019 to Dezember 
 ### Run the code
 Run each *.py* file according to the number in the beginning of the file name.
 
-* **0\_setup.py*:** Creates all the directories needed for execution.
+* **0\_setup.py:** Creates all the directories needed for execution.
 * **1\_extract\_reddit\_data.py:** Parses submissions and comments from the provided Subreddits and saves them to a pandas DataFrame.
 * **2\_recreate\_submissions.py:** Builds a graph to recreate submission discussion trees. We need this to compute structural features.
 * **3\_filter\_comments.py:** Filter the submission DataFrame to only contain those submissions with at least 10 comments.
