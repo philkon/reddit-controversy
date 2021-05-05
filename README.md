@@ -1,5 +1,5 @@
-## Analysis and Predicion of Multilingual Controversy on Reddit
-This repository contains the code used in the paper *Analysis and Predicion of Multilingual Controversy on Reddit*.
+## Analysis and Prediction of Multilingual Controversy on Reddit
+This repository contains the code used in the paper *Analysis and Prediction of Multilingual Controversy on Reddit*.
 
 ### Requirements
 Experiments were conducted with Python 3.8.2 and additional Python packages can be found in and installed with the *requirements.txt* file (`pip3 install requirements.txt`). As we are dealing with over 120 million comments, make sure your computer has enough RAM (at least 256 GB recommended).
